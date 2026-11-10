@@ -23,4 +23,4 @@ Premium is a one-time purchase handled by Google Play. XLauncher receives only t
 Google Play Billing; payment details are handled by Google under its own privacy policy.
 
 ## Contact
-Questions: open an issue at kulimambangfoto@gmail.com
+Questions or data requests: email **kulimambangfoto@gmail.com**
