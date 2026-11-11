@@ -4,6 +4,8 @@ A full-screen Android home launcher and gaming frontend with a console-dashboard
 dark backdrop, a centered top navigation bar, square "Jump back in" tiles and wide
 banner cards with a bright accent focus outline. Works with touch, D-pad/TV remotes and game controllers.
 
+<img width="1024" height="500" alt="graphic" src="https://github.com/user-attachments/assets/976f8b40-1510-4c51-b7ec-d04c9ef869fa" />
+
 ## Features (v6.0.0)
 
 - **Full screen launcher**: registers as a Home app (phones, tablets, handhelds and Android TV), keeps the system bars hidden.
