@@ -26,8 +26,7 @@ banner cards with a bright accent focus outline. Works with touch, D-pad/TV remo
 
 ## Free vs Premium
 
-Premium is a one-time Google Play in-app purchase (product id `xlauncher_premium`; create it in the
-Play Console as a one-time product). Without Premium you get one Banner Home row with up to 3 banners and can
+Premium is a one-time Google Play in-app purchase. Without Premium you get one Banner Home row with up to 3 banners and can
 change the wallpaper and username; customization (tiles, icons, banners, names), avatars, accent colors and
 hidden apps are locked.
 Debug builds have *Settings → Premium → Simulate Premium* for testing. Purchases only work when the app
