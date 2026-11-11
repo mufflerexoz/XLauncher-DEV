@@ -11,17 +11,15 @@ banner cards with a bright accent focus outline. Works with touch, D-pad/TV remo
   (including **live wallpapers**). Adjustable dimming.
 - **Profile**: first-run setup with username and avatar (6 built-in avatars or a gallery picture).
   Select the avatar (top left) to open Settings.
-- **Top bar**: Home, Library and Store (opens Google Play) in the center. The selected page is bright white, the others faded.
+- **Top bar**: Home, Library and Store (opens Google Play) in the center.
 - **Jump back in**: recently opened games/apps as square tiles. *Fit to screen* (fills the width) or a fixed 6–30 tiles.
-- **Banner Home**: create as many titled banner rows as you like (like folders). Pin apps to them from
-  Options → *Pin to Banner Home*. Empty rows show a placeholder. Can be turned off (Home then doesn't scroll).
+- **Banner Home**: create as many titled banner rows as you like.
 - **Customize** any app: tile image, icon, name, banner image and banner name. Tile and banner follow
   each other until you set both; names work the same way.
 - **Launch page**: selecting a tile opens a full-screen page with the banner as background, the tile art,
-  title, played status, play time and last played (play time needs Usage access). A plays, B goes back.
-- **Library**: every installed app with All / Games / Apps filters and search. Hide apps from Options (Premium);
-  open or unhide them from Settings → Home → *Hidden apps*.
-- **Android TV**: the top bar shows the network (Wi-Fi strength / Ethernet) instead of the battery.
+  title, played status, play time and last played (play time needs Usage access).
+- **Library**: every installed app with All / Games / Apps filters and search.
+- **Hide apps** from Options (Premium): open or unhide them from Settings → Home → *Hidden apps*.
 - **Banner sorting**: each Banner Home row can be Manual, A–Z, Z–A or Recently played.
 
 ## Free vs Premium
@@ -45,7 +43,7 @@ hidden apps are locked.
 Developer: **mufflerexoz**
 
 ## Releasing to Google Play
-Targets Android 16 (API 36) with Google Play Billing Library 8, as required by Play in 2026.
+Targets Android 16 (API 36) with Google Play.
 
 ## Build
 Requires JDK 17 and the Android SDK (API 35).
