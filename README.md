@@ -1,4 +1,6 @@
-# XLauncher
+<p align="center"><img width="96" alt="image" src="https://github.com/user-attachments/assets/5c5822be-db00-42be-9be7-c6c57c35b436" /></p>
+
+<h1 align="center">XLauncher</h1>
 
 A full-screen Android home launcher and gaming frontend with a console-dashboard style:
 dark backdrop, a centered top navigation bar, square "Jump back in" tiles and wide
