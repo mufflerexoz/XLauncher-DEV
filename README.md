@@ -1,53 +1,85 @@
-<p align="center"><img width="96" alt="image" src="https://github.com/user-attachments/assets/5c5822be-db00-42be-9be7-c6c57c35b436" /></p>
+<p align="center"><img width="96" alt="XLauncher logo" src="https://github.com/user-attachments/assets/5c5822be-db00-42be-9be7-c6c57c35b436" /></p>
 
 <h1 align="center">XLauncher</h1>
 
-A full-screen Android home launcher and gaming frontend with a console-dashboard style:
-dark backdrop, a centered top navigation bar, square "Jump back in" tiles and wide
-banner cards with a bright accent focus outline. Works with touch, D-pad/TV remotes and game controllers.
+<p align="center"><b>Console-style home launcher and gaming frontend for Android</b><br/>
+Phones · Tablets · Handhelds · Android TV — touch, TV remote and game controller ready</p>
 
-<img width="1024" height="500" alt="graphic" src="https://github.com/user-attachments/assets/976f8b40-1510-4c51-b7ec-d04c9ef869fa" />
+<img width="1024" height="500" alt="XLauncher" src="https://github.com/user-attachments/assets/976f8b40-1510-4c51-b7ec-d04c9ef869fa" />
 
-## Features (v6.0.0)
+A full-screen home launcher with a console-dashboard look: dark backdrop, a centered top navigation bar,
+square **Jump back in** tiles and wide banner cards with a bright focus outline.
 
-- **Full screen launcher**: registers as a Home app (phones, tablets, handhelds and Android TV), keeps the system bars hidden.
-- **Wallpapers**: built-in default background, your own picture, or the device wallpaper
-  (including **live wallpapers**). Adjustable dimming.
-- **Profile**: first-run setup with username and avatar (6 built-in avatars or a gallery picture).
-  Select the avatar (top left) to open Settings.
-- **Top bar**: Home, Library and Store (opens Google Play) in the center.
-- **Jump back in**: recently opened games/apps as square tiles. *Fit to screen* (fills the width) or a fixed 6–30 tiles.
-- **Banner Home**: create as many titled banner rows as you like.
-- **Customize** any app: tile image, icon, name, banner image and banner name. Tile and banner follow
-  each other until you set both; names work the same way.
-- **Launch page**: selecting a tile opens a full-screen page with the banner as background, the tile art,
-  title, played status, play time and last played (play time needs Usage access).
-- **Library**: every installed app with All / Games / Apps filters and search.
-- **Hide apps** from Options (Premium): open or unhide them from Settings → Home → *Hidden apps*.
-- **Banner sorting**: each Banner Home row can be Manual, A–Z, Z–A or Recently played.
+**Latest version: 6.5.1** · Requires Android 8.0 or newer
+
+---
 
 ## Free vs Premium
 
-Premium is a one-time Google Play in-app purchase. Without Premium you get one Banner Home row with up to 3 banners and can
-change the wallpaper and username; customization (tiles, icons, banners, names), avatars, accent colors and
-hidden apps are locked.
+XLauncher is **free to use**. **Premium** is a single one-time purchase through Google Play — no subscription, no ads.
+
+| Feature | Free | Premium |
+|---|:---:|:---:|
+| Full-screen launcher for phone, tablet, handheld and Android TV | ✅ | ✅ |
+| Touch, TV remote and game controller navigation | ✅ | ✅ |
+| Wallpaper: built-in, your own picture, or device / live wallpaper, with dimming | ✅ | ✅ |
+| Profile username | ✅ | ✅ |
+| **Jump back in** recent games & apps (fit to screen or 6–30 tiles) | ✅ | ✅ |
+| Full-screen **launch page** (played status, play time, last played) | ✅ | ✅ |
+| **Library** of all apps with All / Games / Apps filters and search | ✅ | ✅ |
+| Top bar: Home, Library, Store, clock, battery (network status on TV) | ✅ | ✅ |
+| **Navigation sounds** and **background music** with its own volume | ✅ | ✅ |
+| **Banner Home** rows (folders of pinned banners) | 1 row | Unlimited |
+| Pinned banners | Up to 3 | Unlimited |
+| Banner row sorting (Manual, A–Z, Z–A, Recently played) | ✅ | ✅ |
+| **Customize apps** — tile image, icon, name, banner image, banner name | — | ✅ |
+| **Avatar** — 6 built-in avatars or your own picture | Default avatar | ✅ |
+| **Accent colors** (8 choices) | Green | ✅ |
+| **Hide apps** from the Library (open or unhide them anytime) | — | ✅ |
+
+**How to get Premium:** open XLauncher → select your avatar (top-left) → **Settings → Premium → Unlock Premium**.
+Already bought it, or changed device? Use **Restore purchase** on the same page while signed in with the same Google account.
+
+If you stop being Premium (for example after a refund), your extra rows and customizations are kept safely and come back as soon as Premium is active again.
+
+---
+
+## Highlights
+
+- **Jump back in** — your recently played games and apps as large tiles. Optionally includes apps opened outside XLauncher (Settings → Home, needs Android *Usage access*).
+- **Banner Home** — titled rows of wide banners, like folders on a console dashboard. Pin any app with **Y** or **Options → Pin to Banner Home**.
+- **Customize** *(Premium)* — set a tile image, icon, name, banner image and banner name for any app. Tile and banner follow each other until you set both.
+- **Launch page** — choosing a game opens a full-screen page with its banner as background. Press **A** to play, **B** to go back.
+- **Sound** — navigation and selection sounds (can be turned off), plus optional looping background music from any audio file on your device. Music pauses automatically when a game or app opens.
+- **Android TV** — shows Wi-Fi / Ethernet status instead of the battery; works with the remote.
 
 ## Controls
 
 | Input | Action |
 |---|---|
-| D-pad / stick | Move focus (Down from the top bar goes straight to the tiles, Up from the first row goes back to the top bar) |
-| A / Enter / tap | Open launch page / select |
+| D-pad / stick | Move between items (Down from the top bar jumps to the tiles, Up returns to the top bar) |
+| A / OK / tap | Open launch page / select |
 | A on launch page | Play |
-| X / Menu / long-press | Options (pin to Banner Home, customize, app info, uninstall…) |
+| X / Menu / long-press | Options (pin, customize, hide, app info, uninstall…) |
 | Y | Pin to Banner Home |
-| LB / RB | Switch Home and Library |
+| LB / RB | Switch between Home and Library |
 | B / Back | Back |
 
+## Make XLauncher your Home app
+
+- **Phone / tablet:** when you press Home, choose **XLauncher → Always**, or go to Settings → System → *Set as default home app*.
+- **Android TV:** many TV devices have no setting for this. Connect with adb and run:
+  ```
+  adb shell cmd package set-home-activity com.xlauncher.mufflerexoz/com.xlauncher.MainActivity
+  ```
+
+## Privacy
+
+XLauncher doesn't collect or share any personal data. Everything stays on your device.
+Read the full [Privacy Policy](index.md).
+
+## Contact & support
+
+Questions, bug reports or purchase help: **[kulimambangfoto@gmail.com](mailto:kulimambangfoto@gmail.com)**
+
 Developer: **mufflerexoz**
-
-## Releasing to Google Play
-Targets Android 16 (API 36) with Google Play.
-
-## Build
-Requires JDK 17 and the Android SDK (API 35).
