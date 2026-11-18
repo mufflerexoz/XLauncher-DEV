@@ -19,7 +19,10 @@ This data never leaves your device and is deleted when you uninstall XLauncher o
 - **Internet** (optional artwork search): only used when you enter your own API key for SteamGridDB, TheGamesDB,
   IGDB or Google. XLauncher then sends the **game's name** to that service to find artwork and downloads the
   images. Your API keys are stored on your device only. No other data is sent.
-- **Folders you choose** (ROM folders, artwork folder): read only to list your games and images; nothing is uploaded.
+- **Photos and images** (optional): XLauncher's built-in image viewer shows the pictures on your device so you can
+  choose a wallpaper, avatar, tile, icon or banner. Pictures are only displayed and the one you choose is copied
+  into XLauncher's private storage. Nothing is uploaded.
+- **Folders you choose** (ROM folders): read only to list your games; nothing is uploaded.
 - **Delete packages request**: only used when you choose "Uninstall" for an app.
 
 ## Purchases
