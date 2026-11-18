@@ -15,7 +15,11 @@ This data never leaves your device and is deleted when you uninstall XLauncher o
 - **Usage access** (optional, off by default): lets "Jump back in" include apps opened outside XLauncher and
   show play time. Read on-device only; never uploaded.
 - **Query installed apps**: needed to list and launch your apps.
-- **Network state**: shows the Wi-Fi/Ethernet status icon on Android TV. XLauncher makes no network requests itself.
+- **Network state**: shows the Wi-Fi/Ethernet status icon on Android TV.
+- **Internet** (optional artwork search): only used when you enter your own API key for SteamGridDB, TheGamesDB,
+  IGDB or Google. XLauncher then sends the **game's name** to that service to find artwork and downloads the
+  images. Your API keys are stored on your device only. No other data is sent.
+- **Folders you choose** (ROM folders, artwork folder): read only to list your games and images; nothing is uploaded.
 - **Delete packages request**: only used when you choose "Uninstall" for an app.
 
 ## Purchases
