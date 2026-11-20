@@ -10,7 +10,7 @@ Phones · Tablets · Handhelds · Android TV — touch, TV remote and game contr
 A full-screen home launcher with a console-dashboard look: dark backdrop, a centered top navigation bar,
 square **Jump back in** tiles and wide banner cards with a bright focus outline.
 
-**Latest version: 6.5.1** · Requires Android 8.0 or newer
+**Latest version: 7.0.5** · Requires Android 8.0 or newer
 
 ---
 
@@ -36,6 +36,11 @@ XLauncher is **free to use**. **Premium** is a single one-time purchase through 
 | **Avatar** — 6 built-in avatars or your own picture | Default avatar | ✅ |
 | **Accent colors** (8 choices) | Green | ✅ |
 | **Hide apps** from the Library (open or unhide them anytime) | — | ✅ |
+| **Game shortcuts** from emulators (Library → Frontend → Shortcuts) | ✅ | ✅ |
+| **Emulator frontend platforms** — ROM folders for GB, GBA, SNES, PS1, GameCube… and custom platforms (e.g. Switch) | — | ✅ |
+| Automatic game artwork (your own SteamGridDB / TheGamesDB / IGDB / Google keys) | ✅ | ✅ |
+| *Find artwork online* for any app | — | ✅ |
+| Backup & restore | ✅ | ✅ |
 
 **How to get Premium:** open XLauncher → select your avatar (top-left) → **Settings → Premium → Unlock Premium**.
 Already bought it, or changed device? Use **Restore purchase** on the same page while signed in with the same Google account.
