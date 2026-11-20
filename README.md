@@ -23,16 +23,16 @@ XLauncher is **free to use**. **Premium** is a single one-time purchase through 
 | Full-screen launcher for phone, tablet, handheld and Android TV | ✅ | ✅ |
 | Wallpaper: built-in, your own picture, or device / live wallpaper, with dimming | ✅ | ✅ |
 | **Library** with All / Games / Frontend tabs and search | ✅ | ✅ |
+| Automatic game artwork (your own SteamGridDB / TheGamesDB / IGDB / Google keys) | ✅ | ✅ |
+| Backup & restore | ✅ | ✅ |
 | **Banner Home** rows (folders of pinned banners) | 1 row | Unlimited |
 | Pinned banners | Up to 3 | Unlimited |
-| **Customize apps** — tile image, icon, banner image and name | — | ✅ |
 | **Avatar** — 6 built-in avatars or your own picture | Default avatar | ✅ |
 | **Accent colors** (8 choices) | Green | ✅ |
+| **Customize apps** — tile image, icon, banner image and name | — | ✅ |
 | **Hide apps** from the Library (open or unhide them anytime) | — | ✅ |
 | **Emulator frontend platforms** — ROM folders for GB, GBA, SNES, PS1, GameCube… and custom platforms (e.g. Switch) | — | ✅ |
-| Automatic game artwork (your own SteamGridDB / TheGamesDB / IGDB / Google keys) | ✅ | ✅ |
 | *Find artwork online* for any app | — | ✅ |
-| Backup & restore | ✅ | ✅ |
 
 **How to get Premium:** open XLauncher → select your avatar (top-left) → **Settings → Premium → Unlock Premium**.
 Already bought it, or changed device? Use **Restore purchase** on the same page while signed in with the same Google account.
