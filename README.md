@@ -21,22 +21,14 @@ XLauncher is **free to use**. **Premium** is a single one-time purchase through 
 | Feature | Free | Premium |
 |---|:---:|:---:|
 | Full-screen launcher for phone, tablet, handheld and Android TV | ✅ | ✅ |
-| Touch, TV remote and game controller navigation | ✅ | ✅ |
 | Wallpaper: built-in, your own picture, or device / live wallpaper, with dimming | ✅ | ✅ |
-| Profile username | ✅ | ✅ |
-| **Jump back in** recent games & apps (fit to screen or 6–30 tiles) | ✅ | ✅ |
-| Full-screen **launch page** (played status, play time, last played) | ✅ | ✅ |
-| **Library** of all apps with All / Games / Apps filters and search | ✅ | ✅ |
-| Top bar: Home, Library, Store, clock, battery (network status on TV) | ✅ | ✅ |
-| **Navigation sounds** and **background music** with its own volume | ✅ | ✅ |
+| **Library** with All / Games / Frontend tabs and search | ✅ | ✅ |
 | **Banner Home** rows (folders of pinned banners) | 1 row | Unlimited |
 | Pinned banners | Up to 3 | Unlimited |
-| Banner row sorting (Manual, A–Z, Z–A, Recently played) | ✅ | ✅ |
-| **Customize apps** — tile image, icon, name, banner image, banner name | — | ✅ |
+| **Customize apps** — tile image, icon, banner image and name | — | ✅ |
 | **Avatar** — 6 built-in avatars or your own picture | Default avatar | ✅ |
 | **Accent colors** (8 choices) | Green | ✅ |
 | **Hide apps** from the Library (open or unhide them anytime) | — | ✅ |
-| **Game shortcuts** from emulators (Library → Frontend → Shortcuts) | ✅ | ✅ |
 | **Emulator frontend platforms** — ROM folders for GB, GBA, SNES, PS1, GameCube… and custom platforms (e.g. Switch) | — | ✅ |
 | Automatic game artwork (your own SteamGridDB / TheGamesDB / IGDB / Google keys) | ✅ | ✅ |
 | *Find artwork online* for any app | — | ✅ |
