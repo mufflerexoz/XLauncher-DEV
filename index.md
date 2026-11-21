@@ -6,14 +6,14 @@ XLauncher is a home-screen launcher. It does **not** collect, transmit, sell or 
 
 ## Data stored on your device only
 - Your local profile (username and optional avatar picture), wallpaper choice and launcher settings.
-- The list of apps you open from XLauncher and when (used for "Jump back in" and the launch page).
+- The list of apps you open from XLauncher, when, and for how long (used for "Jump back in" and the launch page).
 - Images you pick for avatars, wallpapers, tiles, icons and banners are copied into the app's private storage.
 
 This data never leaves your device and is deleted when you uninstall XLauncher or clear its storage.
 
 ## Permissions
-- **Usage access** (optional, off by default): lets "Jump back in" include apps opened outside XLauncher and
-  show play time. Read on-device only; never uploaded.
+- **Play time**: measured by XLauncher itself (time between starting a game from XLauncher and returning to it).
+  No Usage access permission is used. Stored on your device only.
 - **Query installed apps**: needed to list and launch your apps.
 - **Network state**: shows the Wi-Fi/Ethernet status icon on Android TV.
 - **Internet** (optional artwork search): only used when you enter your own API key for SteamGridDB, TheGamesDB,

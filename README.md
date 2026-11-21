@@ -10,7 +10,7 @@ Phones · Tablets · Handhelds · Android TV — touch, TV remote and game contr
 A full-screen home launcher with a console-dashboard look: dark backdrop, a centered top navigation bar,
 square **Jump back in** tiles and wide banner cards with a bright focus outline.
 
-**Latest version: 7.0.5** · Requires Android 8.0 or newer
+**Latest version: 7.1.1** · Requires Android 8.0 or newer
 
 ---
 
@@ -43,7 +43,7 @@ If you stop being Premium (for example after a refund), your extra rows and cust
 
 ## Highlights
 
-- **Jump back in** — your recently played games and apps as large tiles. Optionally includes apps opened outside XLauncher (Settings → Home, needs Android *Usage access*).
+- **Jump back in** — your recently played games and apps as large tiles. Play time is measured by XLauncher itself, no special permission needed.
 - **Banner Home** — titled rows of wide banners, like folders on a console dashboard. Pin any app with **Y** or **Options → Pin to Banner Home**.
 - **Customize** *(Premium)* — set a tile image, icon, name, banner image and banner name for any app. Tile and banner follow each other until you set both.
 - **Launch page** — choosing a game opens a full-screen page with its banner as background. Press **A** to play, **B** to go back.
